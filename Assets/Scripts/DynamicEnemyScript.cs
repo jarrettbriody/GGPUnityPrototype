@@ -11,6 +11,6 @@ public class DynamicEnemyScript : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        gameObject.GetComponent<Rigidbody>().AddForce(new Vector3(Mathf.Sin(Time.time) * 10, 0.0f, 0.0f));
+        gameObject.GetComponent<Rigidbody>().AddForce(new Vector3(Mathf.Sin(Time.time) * 5.0f, 0.0f, 0.0f));
 	}
 }

@@ -19,14 +19,12 @@ public class BulletScript : MonoBehaviour {
         gameObject.transform.position += direction * speed;
 	}
 
-    private void OnCollisionEnter(Collision collision)
+    void OnCollisionEnter(Collision collision)
     {
         if(collision.gameObject.tag != "Target")
         {
-            Debug.Log("collision");
             if (collision.gameObject == player.gameObject)
             {
-                Debug.Log("player hit");
                 player.GetComponent<Player>().health -= 20;
             }
             Destroy(gameObject);
