@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: 98ba3fb30fadd7d418282e966b7f13eb
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Ruin:Box726
+    100002: Ruin:Box726_Ruin:Box725
+    100004: Ruin:Box726_Ruin:Box725_Ruin:Box728
+    100006: Ruin:Box726_Ruin:Box725_Ruin:Box728_Ruin:Plane001
+    100008: Ruin:Box726_Ruin:Box725_Ruin:Box728_Ruin:Plane001_Ruin:Cylinder006
+    100010: Ruin:Box726_Ruin:Box725_Ruin:Box728_Ruin:Plane001_Ruin:Cylinder006_Ruin:Cylinder009
+    100012: Ruin:Box726_Ruin:Box725_Ruin:Box728_Ruin:Plane001_Ruin:Cylinder006_Ruin:Cylinder009_Ruin:Box727
+    100014: Ruin:Box726_Ruin:Box725_Ruin:Box728_Ruin:Plane001_Ruin:Cylinder006_Ruin:Cylinder009_Ruin:Box727_Ruin:Box724
+    100016: Ruin:Box726_Ruin:Box725_Ruin:Box728_Ruin:Plane001_Ruin:Cylinder006_Ruin:Cylinder009_Ruin:Box727_Ruin:Box724_Ruin:Box722
+    100018: Ruin:Box726_Ruin:Box725_Ruin:Box728_Ruin:Plane001_Ruin:Cylinder006_Ruin:Cylinder009_Ruin:Box727_Ruin:Box724_Ruin:Box722_Ruin:Cylinder007
+    100020: Ruin:Box726_Ruin:Box725_Ruin:Box728_Ruin:Plane001_Ruin:Cylinder006_Ruin:Cylinder009_Ruin:Box727_Ruin:Box724_Ruin:Box722_Ruin:Cylinder007_Ruin:Box723
+    100022: //RootNode
+    100024: group_Ruin:Box722
+    100026: group_Ruin:Box723
+    100028: group_Ruin:Box724
+    100030: group_Ruin:Box725
+    100032: group_Ruin:Box726
+    100034: group_Ruin:Box727
+    100036: group_Ruin:Box728
+    100038: group_Ruin:Cylinder006
+    100040: group_Ruin:Cylinder007
+    100042: group_Ruin:Plane001
+    100044: Ruin:Cylinder009_group
+    400000: Ruin:Box726
+    400002: Ruin:Box726_Ruin:Box725
+    400004: Ruin:Box726_Ruin:Box725_Ruin:Box728
+    400006: Ruin:Box726_Ruin:Box725_Ruin:Box728_Ruin:Plane001
+    400008: Ruin:Box726_Ruin:Box725_Ruin:Box728_Ruin:Plane001_Ruin:Cylinder006
+    400010: Ruin:Box726_Ruin:Box725_Ruin:Box728_Ruin:Plane001_Ruin:Cylinder006_Ruin:Cylinder009
+    400012: Ruin:Box726_Ruin:Box725_Ruin:Box728_Ruin:Plane001_Ruin:Cylinder006_Ruin:Cylinder009_Ruin:Box727
+    400014: Ruin:Box726_Ruin:Box725_Ruin:Box728_Ruin:Plane001_Ruin:Cylinder006_Ruin:Cylinder009_Ruin:Box727_Ruin:Box724
+    400016: Ruin:Box726_Ruin:Box725_Ruin:Box728_Ruin:Plane001_Ruin:Cylinder006_Ruin:Cylinder009_Ruin:Box727_Ruin:Box724_Ruin:Box722
+    400018: Ruin:Box726_Ruin:Box725_Ruin:Box728_Ruin:Plane001_Ruin:Cylinder006_Ruin:Cylinder009_Ruin:Box727_Ruin:Box724_Ruin:Box722_Ruin:Cylinder007
+    400020: Ruin:Box726_Ruin:Box725_Ruin:Box728_Ruin:Plane001_Ruin:Cylinder006_Ruin:Cylinder009_Ruin:Box727_Ruin:Box724_Ruin:Box722_Ruin:Cylinder007_Ruin:Box723
+    400022: //RootNode
+    400024: group_Ruin:Box722
+    400026: group_Ruin:Box723
+    400028: group_Ruin:Box724
+    400030: group_Ruin:Box725
+    400032: group_Ruin:Box726
+    400034: group_Ruin:Box727
+    400036: group_Ruin:Box728
+    400038: group_Ruin:Cylinder006
+    400040: group_Ruin:Cylinder007
+    400042: group_Ruin:Plane001
+    400044: Ruin:Cylinder009_group
+    2100000: Ruin_Material__35
+    2100002: Ruin_Material__28
+    2100004: Ruin_Material__26
+    2100006: Ruin_Material__29
+    2100008: Ruin_Material__31
+    2100010: Ruin_Material__25
+    2100012: Ruin_Material__27
+    2300000: Ruin:Box726
+    2300002: Ruin:Box726_Ruin:Box725
+    2300004: Ruin:Box726_Ruin:Box725_Ruin:Box728
+    2300006: Ruin:Box726_Ruin:Box725_Ruin:Box728_Ruin:Plane001
+    2300008: Ruin:Box726_Ruin:Box725_Ruin:Box728_Ruin:Plane001_Ruin:Cylinder006
+    2300010: Ruin:Box726_Ruin:Box725_Ruin:Box728_Ruin:Plane001_Ruin:Cylinder006_Ruin:Cylinder009
+    2300012: Ruin:Box726_Ruin:Box725_Ruin:Box728_Ruin:Plane001_Ruin:Cylinder006_Ruin:Cylinder009_Ruin:Box727
+    2300014: Ruin:Box726_Ruin:Box725_Ruin:Box728_Ruin:Plane001_Ruin:Cylinder006_Ruin:Cylinder009_Ruin:Box727_Ruin:Box724
+    2300016: Ruin:Box726_Ruin:Box725_Ruin:Box728_Ruin:Plane001_Ruin:Cylinder006_Ruin:Cylinder009_Ruin:Box727_Ruin:Box724_Ruin:Box722
+    2300018: Ruin:Box726_Ruin:Box725_Ruin:Box728_Ruin:Plane001_Ruin:Cylinder006_Ruin:Cylinder009_Ruin:Box727_Ruin:Box724_Ruin:Box722_Ruin:Cylinder007
+    2300020: Ruin:Box726_Ruin:Box725_Ruin:Box728_Ruin:Plane001_Ruin:Cylinder006_Ruin:Cylinder009_Ruin:Box727_Ruin:Box724_Ruin:Box722_Ruin:Cylinder007_Ruin:Box723
+    2300022: group_Ruin:Box722
+    2300024: group_Ruin:Box723
+    2300026: group_Ruin:Box724
+    2300028: group_Ruin:Box725
+    2300030: group_Ruin:Box726
+    2300032: group_Ruin:Box727
+    2300034: group_Ruin:Box728
+    2300036: group_Ruin:Cylinder006
+    2300038: group_Ruin:Cylinder007
+    2300040: group_Ruin:Plane001
+    2300042: Ruin:Cylinder009_group
+    3300000: Ruin:Box726
+    3300002: Ruin:Box726_Ruin:Box725
+    3300004: Ruin:Box726_Ruin:Box725_Ruin:Box728
+    3300006: Ruin:Box726_Ruin:Box725_Ruin:Box728_Ruin:Plane001
+    3300008: Ruin:Box726_Ruin:Box725_Ruin:Box728_Ruin:Plane001_Ruin:Cylinder006
+    3300010: Ruin:Box726_Ruin:Box725_Ruin:Box728_Ruin:Plane001_Ruin:Cylinder006_Ruin:Cylinder009
+    3300012: Ruin:Box726_Ruin:Box725_Ruin:Box728_Ruin:Plane001_Ruin:Cylinder006_Ruin:Cylinder009_Ruin:Box727
+    3300014: Ruin:Box726_Ruin:Box725_Ruin:Box728_Ruin:Plane001_Ruin:Cylinder006_Ruin:Cylinder009_Ruin:Box727_Ruin:Box724
+    3300016: Ruin:Box726_Ruin:Box725_Ruin:Box728_Ruin:Plane001_Ruin:Cylinder006_Ruin:Cylinder009_Ruin:Box727_Ruin:Box724_Ruin:Box722
+    3300018: Ruin:Box726_Ruin:Box725_Ruin:Box728_Ruin:Plane001_Ruin:Cylinder006_Ruin:Cylinder009_Ruin:Box727_Ruin:Box724_Ruin:Box722_Ruin:Cylinder007
+    3300020: Ruin:Box726_Ruin:Box725_Ruin:Box728_Ruin:Plane001_Ruin:Cylinder006_Ruin:Cylinder009_Ruin:Box727_Ruin:Box724_Ruin:Box722_Ruin:Cylinder007_Ruin:Box723
+    3300022: group_Ruin:Box722
+    3300024: group_Ruin:Box723
+    3300026: group_Ruin:Box724
+    3300028: group_Ruin:Box725
+    3300030: group_Ruin:Box726
+    3300032: group_Ruin:Box727
+    3300034: group_Ruin:Box728
+    3300036: group_Ruin:Cylinder006
+    3300038: group_Ruin:Cylinder007
+    3300040: group_Ruin:Plane001
+    3300042: Ruin:Cylinder009_group
+    4300000: Ruin:Box726
+    4300002: Ruin:Box726_Ruin:Box725
+    4300004: Ruin:Box726_Ruin:Box725_Ruin:Box728
+    4300006: Ruin:Box726_Ruin:Box725_Ruin:Box728_Ruin:Plane001
+    4300008: Ruin:Box726_Ruin:Box725_Ruin:Box728_Ruin:Plane001_Ruin:Cylinder006
+    4300010: Ruin:Box726_Ruin:Box725_Ruin:Box728_Ruin:Plane001_Ruin:Cylinder006_Ruin:Cylinder009
+    4300012: Ruin:Box726_Ruin:Box725_Ruin:Box728_Ruin:Plane001_Ruin:Cylinder006_Ruin:Cylinder009_Ruin:Box727
+    4300014: Ruin:Box726_Ruin:Box725_Ruin:Box728_Ruin:Plane001_Ruin:Cylinder006_Ruin:Cylinder009_Ruin:Box727_Ruin:Box724
+    4300016: Ruin:Box726_Ruin:Box725_Ruin:Box728_Ruin:Plane001_Ruin:Cylinder006_Ruin:Cylinder009_Ruin:Box727_Ruin:Box724_Ruin:Box722
+    4300018: Ruin:Box726_Ruin:Box725_Ruin:Box728_Ruin:Plane001_Ruin:Cylinder006_Ruin:Cylinder009_Ruin:Box727_Ruin:Box724_Ruin:Box722_Ruin:Cylinder007
+    4300020: Ruin:Box726_Ruin:Box725_Ruin:Box728_Ruin:Plane001_Ruin:Cylinder006_Ruin:Cylinder009_Ruin:Box727_Ruin:Box724_Ruin:Box722_Ruin:Cylinder007_Ruin:Box723
+    4300022: group_Ruin:Box722
+    4300024: group_Ruin:Box723
+    4300026: group_Ruin:Box724
+    4300028: group_Ruin:Box725
+    4300030: group_Ruin:Box726
+    4300032: group_Ruin:Box727
+    4300034: group_Ruin:Box728
+    4300036: group_Ruin:Cylinder006
+    4300038: group_Ruin:Cylinder007
+    4300040: group_Ruin:Plane001
+    4300042: Ruin:Cylinder009_group
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

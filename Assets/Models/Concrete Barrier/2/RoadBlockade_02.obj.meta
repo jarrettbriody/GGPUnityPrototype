@@ -1,29 +1,16 @@
 fileFormatVersion: 2
-guid: 3ca84ad0a90d68543ab0fd188fe6b752
+guid: a421cbdd510a7fb47a87f0996a0bee1e
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: Mesh10_Group3_Model
-    100002: Mesh17_Group4_Model
-    100004: Mesh1_Group2_Group1_Model
-    100006: //RootNode
-    400000: Mesh10_Group3_Model
-    400002: Mesh17_Group4_Model
-    400004: Mesh1_Group2_Group1_Model
-    400006: //RootNode
-    2100000: Mesh10_Group3_ModelMat
-    2100002: Mesh17_Group4_ModelMat
-    2100004: Mesh1_Group2_Group1_ModelMat
-    2300000: Mesh10_Group3_Model
-    2300002: Mesh17_Group4_Model
-    2300004: Mesh1_Group2_Group1_Model
-    3300000: Mesh10_Group3_Model
-    3300002: Mesh17_Group4_Model
-    3300004: Mesh1_Group2_Group1_Model
-    4300000: Mesh10_Group3_Model
-    4300002: Mesh17_Group4_Model
-    4300004: Mesh1_Group2_Group1_Model
-    2186277476908879412: ImportLogs
+    100000: default
+    100002: //RootNode
+    400000: default
+    400002: //RootNode
+    2100000: RoadBlockade_02_Material
+    2300000: default
+    3300000: default
+    4300000: default
   externalObjects: {}
   materials:
     importMaterials: 1
