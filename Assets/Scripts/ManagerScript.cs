@@ -17,6 +17,11 @@ public class ManagerScript : MonoBehaviour {
         GameObject[] barrier1s = GameObject.FindGameObjectsWithTag("Barrier1");
         GameObject[] barrier2s = GameObject.FindGameObjectsWithTag("Barrier2");
         GameObject ruin = GameObject.FindGameObjectWithTag("Ruin");
+        GameObject[] rocks = GameObject.FindGameObjectsWithTag("Rock");
+        GameObject[] rock_6s = GameObject.FindGameObjectsWithTag("Rock_6");
+        GameObject[] barrel_1s = GameObject.FindGameObjectsWithTag("barrel_1");
+        GameObject[] wc1s = GameObject.FindGameObjectsWithTag("wc1");
+        GameObject[] wallLights = GameObject.FindGameObjectsWithTag("WallLight");
 
         using (StreamWriter writer = new StreamWriter("scene.txt"))//P(9.5, 0.6, -8.3)R(0.0, 125.6, 0.0)S(5.9, 1.3, 1.0)
         {
@@ -38,6 +43,31 @@ public class ManagerScript : MonoBehaviour {
             }
 
             writer.WriteLine(GenObjSceneInfo("Ruin", ruin));
+
+            for (int i = 0; i < rocks.Length; i++)
+            {
+                writer.WriteLine(GenObjSceneInfo("Rock", rocks[i]));
+            }
+
+            for (int i = 0; i < rock_6s.Length; i++)
+            {
+                writer.WriteLine(GenObjSceneInfo("Rock_6", rock_6s[i]));
+            }
+
+            for (int i = 0; i < barrel_1s.Length; i++)
+            {
+                writer.WriteLine(GenObjSceneInfo("barrel_1", barrel_1s[i]));
+            }
+
+            for (int i = 0; i < wc1s.Length; i++)
+            {
+                writer.WriteLine(GenObjSceneInfo("wc1", wc1s[i]));
+            }
+
+            for (int i = 0; i < wallLights.Length; i++)
+            {
+                writer.WriteLine(GenObjSceneInfo("WallLight", wallLights[i]));
+            }
         }
     }
 	

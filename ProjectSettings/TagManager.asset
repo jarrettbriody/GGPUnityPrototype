@@ -10,6 +10,11 @@ TagManager:
   - Barrier2
   - Ground
   - Ruin
+  - Rock
+  - Rock_6
+  - barrel_1
+  - wc1
+  - WallLight
   layers:
   - Default
   - TransparentFX
